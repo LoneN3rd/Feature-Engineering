@@ -7,7 +7,7 @@ Sendy has hired you to help predict the estimated time of delivery of orders, fr
 You will be required to go through the following:
   1. Defining the Research Question
   2. Data Importation
-  3 Data Exploration
+  3. Data Exploration
   4. Data Cleaning
   5. Data Analysis (Univariate and Bivariate)
   6. Data Preparation
