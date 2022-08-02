@@ -9,4 +9,6 @@ The dataset provided by Sendy includes order details and rider metrics based on 
 
 Dataset URL https://bit.ly/3deaKEM
 
-Dataset Glossary https://bit.ly/30O3xsr
+Dataset Glossary: https://bit.ly/30O3xsr
+
+Project Source: https://bit.ly/2Y6Hzz3
